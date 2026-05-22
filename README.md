@@ -25,18 +25,8 @@ It also includes:
 ---
 
 
----
 
-## 📂 Project Structure
 
-```bash
-calculator-project/
-│
-├── calculator.py
-└── README.md
-```
-
----
 
 ## ✨ Features
 
