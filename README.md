@@ -97,7 +97,7 @@ pip install pillow qrcode
 ## 5️⃣ Run the Application
 
 ```bash
-python main.py
+python splash.py
 ```
 
 ---
